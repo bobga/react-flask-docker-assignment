@@ -1,0 +1,23 @@
+{
+  "name": "docker-nginx-react-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^1.1.3",
+    "bootstrap": "^5.2.2",
+    "react": "^16.4.2",
+    "react-bootstrap": "^2.5.0",
+    "react-bootstrap-table-next": "^4.0.3",
+    "react-bootstrap-table2-filter": "^1.3.3",
+    "react-bootstrap-table2-paginator": "^2.1.2",
+    "react-dom": "^16.4.2",
+    "react-router-dom": "^6.4.3",
+    "react-scripts": "1.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
